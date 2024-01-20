@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1705792597613" clover="3.2.0">
-  <project timestamp="1705792597613" name="All files">
+<coverage generated="1705792857954" clover="3.2.0">
+  <project timestamp="1705792857954" name="All files">
     <metrics statements="38" coveredstatements="38" conditionals="8" coveredconditionals="8" methods="10" coveredmethods="10" elements="56" coveredelements="56" complexity="0" loc="38" ncloc="38" packages="2" files="6" classes="6"/>
     <package name="helpers">
       <metrics statements="19" coveredstatements="19" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
@@ -10,7 +10,7 @@
         <line num="2" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
         <line num="6" count="3" type="stmt"/>
-        <line num="13" count="7" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
         <line num="20" count="1" type="stmt"/>
         <line num="27" count="2" type="stmt"/>
       </file>
@@ -29,8 +29,8 @@
       <file name="server-error.js" path="C:\Users\daian\OneDrive\Documentos\programacao\TDD - nodejs - Manguinho\clean-node-api-tdd\src\presentation\helpers\server-error.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
-        <line num="3" count="13" type="stmt"/>
-        <line num="4" count="13" type="stmt"/>
+        <line num="3" count="14" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
       </file>
       <file name="unauthorized-error.js" path="C:\Users\daian\OneDrive\Documentos\programacao\TDD - nodejs - Manguinho\clean-node-api-tdd\src\presentation\helpers\unauthorized-error.js">
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
@@ -47,13 +47,13 @@
         <line num="2" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="1" type="stmt"/>
-        <line num="6" count="13" type="stmt"/>
-        <line num="7" count="13" type="stmt"/>
-        <line num="11" count="13" type="stmt"/>
-        <line num="12" count="13" type="stmt"/>
-        <line num="14" count="11" type="cond" truecount="2" falsecount="0"/>
+        <line num="6" count="14" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="11" count="14" type="stmt"/>
+        <line num="12" count="14" type="stmt"/>
+        <line num="14" count="12" type="cond" truecount="2" falsecount="0"/>
         <line num="15" count="1" type="stmt"/>
-        <line num="17" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="11" type="cond" truecount="2" falsecount="0"/>
         <line num="18" count="1" type="stmt"/>
         <line num="21" count="4" type="cond" truecount="2" falsecount="0"/>
         <line num="22" count="1" type="stmt"/>
@@ -61,7 +61,7 @@
         <line num="26" count="3" type="cond" truecount="2" falsecount="0"/>
         <line num="27" count="1" type="stmt"/>
         <line num="30" count="2" type="stmt"/>
-        <line num="33" count="7" type="stmt"/>
+        <line num="33" count="8" type="stmt"/>
       </file>
     </package>
   </project>
